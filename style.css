@@ -24,6 +24,7 @@ body{
 
 #button-container{
     padding-left: 2vw;
+    align-items: end;
 }
 
 button{
